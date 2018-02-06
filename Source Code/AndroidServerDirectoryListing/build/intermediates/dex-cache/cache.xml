@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.github.ozodrukh\CircularReveal\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4e01297e21f918ce3de5f20f1b7ab5682f125ff4">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-8d6792f3febe52880f2ff0a08eabe741fcb7d713.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-f93ea9c5c57184c06c844fbbb9de1ca6813744b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-076408bf108c8adc626eca00a3a856268dfb811a.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-24293ddad83d9e3e960927d169d3aa8d97e72c46.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-c7557172df19184420b78ed6a61b49c86906b462.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-7c65c1ffb85115ec74ad8acd954198a28afb8465.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-4e2fc0fc2207f00e688a86f5063827070ae5db66.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-6204ee12520bd172121dd6a3e89da00a4580fcec.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-554bac1b27f3dead672b03305d06faec45d5dea0.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-88721e4b4b7c75d0a058907d2ca05457dc979150.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.github.shem8\material-login\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cd844e467950656650477b898867e768149f46e">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-40b38da90509c20587a7ee1677f07a0c979ceabb.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-3687af0e8b52dc756f4a21fe499fec3255f3ef87.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-14bed4c9ea50649cac22b48ddd797ceaf1f569c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-d7ab344d91190987735bd8002c89cb6dce9747ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-47e0a4be61aeaa2cf737db8b691aba10cd6eaa3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-87d795d1dad3f6cecce86ac5cdb2aa19f22d24a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-120c36220b49606d3e8776f7063d348085063bba.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-c6b6cd2b6e508988c89c9f3bdf651182494ae7c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-579ddfdbd8c80d4f1f696231a376a5947bcb2025.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\ftp4j-1.7.2\ftp4j-1.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="abd6a2ba75b142926052c4538611efda49e0b0e2">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\ftp4j-1.7.2-9f7e1ecaef9235943ad864b04ca22c9cf4733da1.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-e684a3173d2c65fa0ec4c1645f4446c3f8bfe80c.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-59e9c718f05d43049bb7b5357a6f621581592f7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-03adae222386a28be7425b885955dd35495d97b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-65b59b767f6dd075aff7dde1df8756d500184187.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-bf1aed8b698fed99dfa53e7858f7df879afe53d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-653b6bb8797cc330ec74e8a2bfbb3a3cfee3b990.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-9f390948823542c9ff313fb8a7aa230c10902c8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-3ce2c712b85e8a2f1a205fc90a5e142dd537bf70.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-feb520f2a4db8073e9856e0d287401a67336d131.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.github.rahatarmanahmed\circularprogressview\2.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9a883402815cf6ab7b526e84bbd1d8752f075cd3">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-4941390ed163ab2bb8740c452fbebfb18cd9634e.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-d294d6077e4ed6588eae314040680278ef1a0253.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4-70c6af649fbc8d6c71520aa39d27f1ac9ab19f9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-504a25ab0d3e7174c1c9d18238b8ba0b1aec7b4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-a788df6a8344e4457eff8f912abc0f27947c09b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-84bb407ec19f5bb071e16dab142e8edfdb03e94a.jar" />
+    </item>
+    <item
+        jar="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="C:\Users\nikhil\Desktop\AndroidServerDirectoryListing\app\build\intermediates\pre-dexed\debug\classes-a6c4f218c86ae8702331e97b2c019c8586e92ea8.jar" />
+    </item>
+
+</items>
